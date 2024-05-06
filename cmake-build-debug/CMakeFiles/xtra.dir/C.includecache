@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.7Pm4KfxYkL/main.c
+stdio.h
+-
+errno.h
+-
+xtra.h
+/tmp/tmp.7Pm4KfxYkL/xtra.h
+
+/tmp/tmp.7Pm4KfxYkL/xtra.h
+
